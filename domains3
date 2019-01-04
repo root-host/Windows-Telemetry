@@ -420,8 +420,6 @@
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 insiderservice.microsoft.com
 0.0.0.0 ipv4.login.live.com
-0.0.0.0 licensing.mp.microsoft.com
-0.0.0.0 login.live.com
 0.0.0.0 login.msa.akadns6.net
 0.0.0.0 maps.windows.com
 0.0.0.0 m.hotmail.com
@@ -452,7 +450,6 @@
 0.0.0.0 support.microsoft.com
 0.0.0.0 t.urs.microsoft.com
 0.0.0.0 tile-service.weather.microsoft.com
-0.0.0.0 time.windows.com
 0.0.0.0 tk2.plt.msn.com
 0.0.0.0 uhf.microsoft.com
 0.0.0.0 ui.skype.com
