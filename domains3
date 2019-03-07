@@ -1,6 +1,3 @@
-#############################################
-# Domain List To Block Windows 10 Telemetry #
-#############################################
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
